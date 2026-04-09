@@ -3,7 +3,7 @@
 ### 💊 AI Health Advisor — End-to-End ML (Disease & Medicine Recommendation)
 **Stack:** Python, scikit-learn, Pandas, Streamlit, Random Forest  
 **Highlights:** Symptom-based predictions + integrated knowledge base (medicines, diet, precautions).  
-**Repo:** https://github.com/himanshuanand480/Medicine-Recommendation_Systems/tree/main
+**Repo:** https://github.com/himanshuanand480/AI-Health-Advisor/tree/main
 
 ### ❤️ Heart Health Prediction System — Streamlit App
 **Stack:** Python, scikit-learn, Pandas, Plotly, Streamlit, Random Forest/Decision Tree  
